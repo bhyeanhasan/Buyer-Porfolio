@@ -1,0 +1,43 @@
+.back-fix {
+  background-image: url("../../asset/img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+  height: 85vh;
+}
+
+.profile-txt {
+  color: goldenrod;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.intro{
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, .5)
+}
+
+.intro:hover{
+  background-color: goldenrod;
+  color: white;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+  font-family: "DM Sans", sans-serif;
+  line-height: 1.2em;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 600;
+}
+
+.profile-link{
+  color: goldenrod;
+}
+
+.profile-link:hover{
+  color: white;
+}
