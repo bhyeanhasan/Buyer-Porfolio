@@ -50,12 +50,6 @@ export const ExtraCurricularActivities2 = [
         institution: "Satyen Bose Science Club BUET",
         designation: "Campus Ambassador"
     },
-    // {
-    //     id: 2,
-    //     image: "https://www.youtube.com/embed/O3ASXYvcGiA?si=H3242vx5znPBkCF7",
-    //     institution: "BNCC—PSTU (Naval Wing)",
-    //     designation: "Cadet"
-    // },
     {
         id: 3,
         image: "https://www.youtube.com/embed/-lA6BeAHAEQ?si=XDArUtZ8ZdihCtnE",

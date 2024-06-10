@@ -46,6 +46,7 @@
   color: gold;
 }
 
+
 .nav-item{
   margin-bottom: 10px;
 }
@@ -60,13 +61,13 @@
   a,
   p {
     font-size: 16px;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 22px;
-    color: gold;
+    color: goldenrod;
     cursor: pointer;
 
     &:hover {
-      color: #0099dc;
+      color: white;
     }
   }
 }

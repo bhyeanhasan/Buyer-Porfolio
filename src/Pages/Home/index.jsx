@@ -6,6 +6,7 @@ import Music from "../../component/Music/Music"
 import Business from "../../component/Business/Business";
 import Gallery from "../../component/Gallery/Gallery";
 import Store from "../../component/Store/Store"
+import MusicUpdate from "../../component/Music/MusicUpdate";
 
 
 const index = () => {
@@ -14,6 +15,7 @@ const index = () => {
             <Header/>
             <Profile/>
             <Music/>
+            {/*<MusicUpdate/>*/}
             <Business/>
             <Gallery/>
             <Store/>

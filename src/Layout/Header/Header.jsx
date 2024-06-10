@@ -5,6 +5,7 @@ import { FcList } from "react-icons/fc";
 import Logo from "../../asset/img/logo.jpg";
 import "./Header.scss";
 import {HashLink} from "react-router-hash-link";
+import { FaUserAlt } from "react-icons/fa";
 
 const Header = () => {
     return (

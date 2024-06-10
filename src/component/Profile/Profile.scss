@@ -4,7 +4,7 @@
   background-attachment: scroll;
   background-position: center;
   background-size: cover;
-  height: 85vh;
+  height: 65vh;
 }
 
 .profile-txt {
@@ -16,14 +16,15 @@
 }
 
 .intro{
+  font-family: "Lucinda Grande", "Lucinda Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   border-radius: 15px;
   background-color: rgba(0, 0, 0, .5)
 }
 
-.intro:hover{
-  background-color: goldenrod;
-  color: white;
-}
+//.intro:hover{
+//  background-color: goldenrod;
+//  color: white;
+//}
 
 h1, h2, h3,
 h4, h5, h6 {
@@ -40,4 +41,16 @@ h4, h5, h6 {
 
 .profile-link:hover{
   color: white;
+}
+
+.dm-serif-text-regular {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
 }
